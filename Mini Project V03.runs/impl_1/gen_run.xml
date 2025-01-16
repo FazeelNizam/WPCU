@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7k70tfbv676-1" LaunchTime="1732863240">
+  <File Type="BITSTR-BMM" Name="WPCU_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="WPCU_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="WPCU_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="WPCU_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="WPCU.tcl"/>
+  <File Type="OPT-TIMING" Name="WPCU_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="WPCU_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="WPCU_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="WPCU_reports.tcl"/>
+  <File Type="OPT-DRC" Name="WPCU_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="WPCU.hwdef"/>
+  <File Type="PWROPT-DCP" Name="WPCU_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="WPCU_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="WPCU_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="WPCU_placed.dcp"/>
+  <File Type="PLACE-IO" Name="WPCU_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="WPCU_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="WPCU_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="WPCU_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="WPCU_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="WPCU_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="WPCU_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="WPCU_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="WPCU_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="WPCU.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="WPCU_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="WPCU_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="WPCU_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="WPCU.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="WPCU_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="WPCU_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="WPCU_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="WPCU_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="WPCU_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="WPCU_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="WPCU_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="WPCU.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="WPCU_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="WPCU_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="WPCU_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="WPCU_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="WPCU_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="WPCU_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="WPCU_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="WPCU_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="WPCU_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="WPCU_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="WPCU_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="WPCU_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="WPCU_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="WPCU_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="WPCU_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="WPCU_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="WPCU_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="WPCU_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="WPCU_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="WPCU_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="WPCU_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="WPCU.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="WPCU_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="WPCU.rbt"/>
+  <File Type="BITSTR-NKY" Name="WPCU.nky"/>
+  <File Type="PDI-FILE" Name="WPCU.pdi"/>
+  <File Type="RCFI_FILE" Name="WPCU.rcfi"/>
+  <File Type="CFI_FILE" Name="WPCU.cfi"/>
+  <File Type="RNPI_FILE" Name="WPCU.rnpi"/>
+  <File Type="NPI_FILE" Name="WPCU.npi"/>
+  <File Type="RBD_FILE" Name="WPCU.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="WPCU.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="WPCU.sysdef"/>
+  <File Type="BG-BGN" Name="WPCU.bgn"/>
+  <File Type="BG-DRC" Name="WPCU.drc"/>
+  <File Type="RDI-RDI" Name="WPCU.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/FSM.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/WPCU.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="WPCU"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
